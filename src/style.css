@@ -1,0 +1,45 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.parent-container {
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.child-container {
+  margin-top: 10px;
+  background-color: lightblue;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.mt-m {
+  margin-top: 10px;
+}
+
+.ml-m {
+  margin-left: 10px;
+}
+
+.mr-m {
+  margin-right: 10px;
+}
+
+.my-m {
+  margin: 10px 0;
+}
